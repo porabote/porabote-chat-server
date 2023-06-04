@@ -1,0 +1,6 @@
+{
+  "chat": {
+    "port": 4041,
+    "host": "localhost"
+  }
+}
